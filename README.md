@@ -9,8 +9,9 @@ Before going forward, you need to have following packages installed on your syst
 3. grunt (if you don't have installed you can insatlled using `npm install -g grunt-cli`)
 
 ## Installation 
-1. clone dir
-2. cd in cloned dir
+1. clone dir(script-combine)
+
+2. cd in cloned dir(script-combine)
 3. run following command (which will install node packages in project dir)
 ```bash
 npm install
@@ -19,8 +20,8 @@ npm install
 ```bash
 bower install
 ```
-5. Now visit `localhost/dir/app`
-It will show you simple html file with two css and js files loaded which are minfied.
+5. Now go to `localhost/dir/app`
+It will show you simple html file with two css and js files loaded which are not minified
 
 6. Run following command to combine js and css files
 
